@@ -1,2 +1,2 @@
-# Projeto-F-sica
+# Projeto-Física
 Projeto Ora Bolas
